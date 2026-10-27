@@ -1,4 +1,4 @@
-@media screen and (max-width: 470px) {
+@media screen and (max-width: 840px) {
     .Genre-section {
         padding: 0 2.5%;
         overflow: hidden;
@@ -201,5 +201,5 @@
     .footer-child {
         width: 100%;
     }
-
+     
 }
